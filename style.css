@@ -255,3 +255,7 @@ h4 {
   text-align: center;
 }
 
+.loaded{
+  display: flex;
+  justify-content: center;
+}
